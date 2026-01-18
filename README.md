@@ -1,5 +1,5 @@
 # 💫 About Me:
-i currently working on full stack web developer<br>i made many projects on sql, mysql databse<br>i studying in Mehran university of Engineering and technology <br>
+i'm currently working on web development<br>i made many projects on sql, mysql databse<br>i studying in Mehran university of Engineering and technology <br>
 
 
 ## 🌐 Socials:
